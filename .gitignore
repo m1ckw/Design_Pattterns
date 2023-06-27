@@ -6,3 +6,8 @@ build
 
 # Ignore VS Code files 
 .vscode
+
+# Other 
+bin/
+out/
+target/
