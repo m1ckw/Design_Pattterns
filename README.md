@@ -1,4 +1,4 @@
-# Design Pattterns
+# Design Patterns
 In software engineering, a design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. 
 It's not a finished design that can be transformed directly into code, but a description or template for how to solve a problem that can be used in many different situations.
 
@@ -42,4 +42,6 @@ Design Patterns as defined by [GoF (Gang of Four)](https://en.wikipedia.org/wiki
 	23. Visitor: This lets you define a new operation without changing the classes of the elements on which it operates.
 
 ## Resources 
-Design Patterns - [Elements of Reusable Object-Oriented Software by "Gang of Four" (GoF)](https://en.wikipedia.org/wiki/Design_Patterns), which included Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
+1. Design Patterns - [Elements of Reusable Object-Oriented Software by "Gang of Four" (GoF)](https://en.wikipedia.org/wiki/Design_Patterns), which included Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
+
+2. Code with Mosh - [Design Patterns](https://codewithmosh.com/p/design-patterns-part1) Part 1 of a three part series on mastering design patterns. 
