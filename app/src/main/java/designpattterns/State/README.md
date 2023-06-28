@@ -18,7 +18,7 @@ Examples can be seen in applications with multiple states like a media player, w
 The Canvas class has a composition relationship with the Tool class, meaning the Canvas class incorporates the Tool class. The Tool object serves as an abstract interface for the concrete implementations of the various Tools, which inherit their behaviour from the Tool interface.
 ![UML](State_UML.png)
 
-**In this pattern**:
+In this pattern:
 	• The Canvas class maintains an instance of a Concrete Tool subclass that defines the current Tool.
 	• The Tool class is an abstract class (or interface) that defines a common interface for all Concrete Tool implementations.
 	• Concrete Tool subclasses each represent different tools and implement the Tool interface.
