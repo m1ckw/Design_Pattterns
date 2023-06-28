@@ -11,3 +11,6 @@ build
 bin/
 out/
 target/
+
+# Mac Specific
+.DS_Store
