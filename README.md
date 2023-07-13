@@ -34,7 +34,7 @@ Design Patterns as defined by [GoF (Gang of Four)](https://en.wikipedia.org/wiki
 15. Interpreter: Implements a specialized language.
 16. Iterator: Accesses the elements of an object sequentially without exposing its underlying representation.
 17. Mediator: Allows loose coupling by encapsulating the way disparate sets of objects interact and communicate with each other.
-18. Memento: Provides the ability to restore an object to its previous state.
+18. [Memento](https://github.com/m1ckw/Design_Pattterns/tree/29d97b03b3548e42db7099a6e1949e755906a261/app/src/main/java/designpattterns/memento): Provides the ability to restore an object to its previous state.
 19. Observer: Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
 20. [State](https://github.com/m1ckw/Design_Pattterns/tree/5ec747c3316df1c7224bd12fcb279060fa2715ac/app/src/main/java/designpattterns/State): Allows an object to alter its behaviour when its internal state changes.
 21. Strategy: Allows one of a family of algorithms to be selected on-the-fly at runtime.
